@@ -27,13 +27,12 @@ export default function Page() {
                             </svg>
                         </a>
 
-                        <h2 className="mt-6 text-2xl font-bold text-white sm:text-3xl md:text-4xl">
+                        <h1 className="mt-6 text-2xl font-bold text-white sm:text-3xl md:text-4xl">
                             Welcome to AI Interview Mocker 🦑
-                        </h2>
+                        </h1>
 
                         <p className="mt-4 leading-relaxed text-white/90">
-                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eligendi nam dolorum aliquam,
-                            quibusdam aperiam voluptatum.
+                            Practice and perfect your interview skills with our AI-powered mock interview app.
                         </p>
                     </div>
                 </section>
